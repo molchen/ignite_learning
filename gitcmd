@@ -1,0 +1,23 @@
+
+克隆代码到本地
+git clone url
+
+初始化一个本地git仓库
+git init
+
+添加文件
+git add .
+
+查看状态
+git status
+
+提交代码到本地仓库
+git commit -m "注释"
+
+提交代码到远程git仓库
+git push
+
+生成本地密码
+ssh-keygen -trsa -C "youremail@example.com"
+
+
