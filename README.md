@@ -18,3 +18,6 @@ https://my.oschina.net/liyuj/blog/651036?p=1
 
 搭建第一个Ignite集群时的注意事项:
 https://my.oschina.net/liyuj/blog/3028514
+
+CentOs7如何搭建Ignite单机及集群:
+https://blog.csdn.net/weixin_43735682/article/details/94179036
