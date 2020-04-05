@@ -27,3 +27,6 @@ https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/#import-the-pub
 
 ubuntu 14.04 install nodejs:
 https://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04/39326989
+
+Working With Hadoop: localhost: Error: JAVA_HOME is not set:
+https://stackoverflow.com/questions/14325594/working-with-hadoop-localhost-error-java-home-is-not-set
