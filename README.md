@@ -24,3 +24,6 @@ https://blog.csdn.net/weixin_43735682/article/details/94179036
 
 ubuntu 14.04 install mongodb:
 https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/#import-the-public-key-used-by-the-package-management-system
+
+ubuntu 14.04 install nodejs:
+https://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04/39326989
