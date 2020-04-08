@@ -40,6 +40,8 @@ https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCl
 java.io.FileNotFoundException com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar:
 https://stackoverflow.com/questions/43328022/spring-boot-embedded-tomcat-dependency-throws-exception-on-startup
 
+org.apache.hadoop.ipc.remoteexception(org.apache.hadoop.security.accesscontrolexception:
+https://community.cloudera.com/t5/Support-Questions/Permission-denied-user-root-access-WRITE-inode-quot-user/td-p/4943
 
 issiues: Failed to replace a bad datanode on the existing pipeline due to no more good datanodes being available to try. (Nodes: current=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]], original=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]]). The current failed datanode replacement policy is DEFAULT, and a client may configure this via 'dfs.client.block.write.replace-datanode-on-failure.policy' in its configuration:
 https://community.cloudera.com/t5/Community-Articles/Write-or-Append-failures-in-very-small-Clusters-under-heavy/ta-p/245446
