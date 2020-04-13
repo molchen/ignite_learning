@@ -15,6 +15,9 @@ git status
 提交代码到本地仓库
 git commit -m "注释"
 
+第一次push
+git push -u orgin master
+
 提交代码到远程git仓库
 git push
 
