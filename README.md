@@ -67,5 +67,7 @@ https://www.cs.helsinki.fi/u/jilu/paper/hadoop_on_win.pdf
 ignite caused by class org.apache.ignite.Ignite.exception no filesystem for scheme hdfs:
 https://stackoverflow.com/questions/17265002/hadoop-no-filesystem-for-scheme-file/21118824
 
+Exception in thread "main" java.lang.UnsatisfiedLinkError: org.apache.hadoop.io.nativeio.NativeIO$Windows.createFileWithMode0(Ljava/lang/String;JJJI)Ljava/io/FileDescriptor;
+
 issiues: Failed to replace a bad datanode on the existing pipeline due to no more good datanodes being available to try. (Nodes: current=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]], original=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]]). The current failed datanode replacement policy is DEFAULT, and a client may configure this via 'dfs.client.block.write.replace-datanode-on-failure.policy' in its configuration:
 https://community.cloudera.com/t5/Community-Articles/Write-or-Append-failures-in-very-small-Clusters-under-heavy/ta-p/245446
