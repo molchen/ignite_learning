@@ -71,5 +71,8 @@ Exception in thread "main" java.lang.UnsatisfiedLinkError: org.apache.hadoop.io.
 
 https://stackoverflow.com/questions/41851066/exception-in-thread-main-java-lang-unsatisfiedlinkerror-org-apache-hadoop-io
 
+Apache Ignite How to set the primary key to automatically grow?：
+https://stackoverflow.com/questions/51840671/apache-ignite-how-to-set-the-primary-key-to-automatically-grow
+
 issiues: Failed to replace a bad datanode on the existing pipeline due to no more good datanodes being available to try. (Nodes: current=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]], original=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]]). The current failed datanode replacement policy is DEFAULT, and a client may configure this via 'dfs.client.block.write.replace-datanode-on-failure.policy' in its configuration:
 https://community.cloudera.com/t5/Community-Articles/Write-or-Append-failures-in-very-small-Clusters-under-heavy/ta-p/245446
