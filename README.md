@@ -75,6 +75,9 @@ Apache Ignite How to set the primary key to automatically grow?：
 https://stackoverflow.com/questions/51840671/apache-ignite-how-to-set-the-primary-key-to-automatically-grow
 https://github.com/apache/ignite/blob/master/modules/indexing/src/test/java/org/apache/ignite/internal/processors/query/h2/sql/GridQueryParsingTest.java
 
+how to change intellij idea project tool window background color
+https://stackoverflow.com/questions/42846236/intellij-how-to-change-background-color-of-project-folder-window
+
 windows smartscreen should be disabled in order to install network virtualization
 
 issiues: Failed to replace a bad datanode on the existing pipeline due to no more good datanodes being available to try. (Nodes: current=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]], original=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]]). The current failed datanode replacement policy is DEFAULT, and a client may configure this via 'dfs.client.block.write.replace-datanode-on-failure.policy' in its configuration:
