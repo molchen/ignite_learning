@@ -1,0 +1,3 @@
+set vim
+vim ~/vimrc
+https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces
