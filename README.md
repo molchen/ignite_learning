@@ -90,6 +90,10 @@ https://shipilev.net/jvm/anatomy-quarks/12-native-memory-tracking/
 
 https://dzone.com/articles/native-memory-allocation-in-examples
 
+jcmd command:
+https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr007.html
+NMT Memory Categories:
+https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr022.html#BABHIFJC
 
 windows smartscreen should be disabled in order to install network virtualization
 
