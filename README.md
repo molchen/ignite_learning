@@ -117,5 +117,17 @@ https://github.com/torvalds/linux/tree/master/Documentation
 
 https://www.kernel.org/doc/Documentation/filesystems/proc.txt
 
+hash table:
+
+http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/
+
+https://programming.guide/hash-tables.html
+
+https://programming.guide/hash-tables-open-addressing.html
+
+https://programming.guide/robin-hood-hashing.html
+
+
+
 issiues: Failed to replace a bad datanode on the existing pipeline due to no more good datanodes being available to try. (Nodes: current=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]], original=[DatanodeInfoWithStorage[172.20.10.9:50010,DS-7227115d-1c74-452d-be29-c9d800f9919f,DISK]]). The current failed datanode replacement policy is DEFAULT, and a client may configure this via 'dfs.client.block.write.replace-datanode-on-failure.policy' in its configuration:
 https://community.cloudera.com/t5/Community-Articles/Write-or-Append-failures-in-very-small-Clusters-under-heavy/ta-p/245446
